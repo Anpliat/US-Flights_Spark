@@ -6,4 +6,4 @@ Note: Because airlines were only indicated by their code in the 2017 performance
 
 ### Tasks:
 * Provide a "misery index" for airports.
-* Provide a "misery index" for airlines
+* Provide a "misery index" for airlines.
