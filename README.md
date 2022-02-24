@@ -5,6 +5,6 @@ Airline On-Time Performance Data Analysis, using 2017 data available at https://
 Note: Because airlines were only indicated by their code in the 2017 performance data, we also downloaded the carrier lookup table from https://www.transtats.bts.gov/Download_Lookup.asp?Lookup=L_UNIQUE_CARRIERS, to include airline names in our results.
 
 ### Tasks:
-:arrow_right: **Provide a "misery index" for airports.**
+:arrow_right: *Provide a "misery index" for airports.*
 
-:arrow_right: **Provide a "misery index" for airlines.**
+:arrow_right: *Provide a "misery index" for airlines.*
